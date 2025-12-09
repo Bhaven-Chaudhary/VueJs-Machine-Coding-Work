@@ -1,0 +1,11 @@
+**Task
+
+Build a Vue component named <OtpInput /> that collects a 6-digit numeric OTP from the user.
+
+**Requirements
+
+Display 6 input boxes in a single line.
+
+Each input box should accept only one numeric character (0–9).
+
+When all boxes are filled, emit a complete event (or invoke a callback) with the final OTP as a string.

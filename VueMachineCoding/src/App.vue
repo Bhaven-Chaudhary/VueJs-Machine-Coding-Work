@@ -1,10 +1,8 @@
-<script setup>
-</script>
-
 <template>
-  
+  <OtpInput />
 </template>
 
-<style scoped>
-
-</style>
+<script setup>
+import OtpInput from "./components/SixDigitOtp/OtpInput.vue";
+</script>
+<style scoped></style>
